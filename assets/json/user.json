@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ankit",
+        "email": "ankit@gmail.com",
+        "password": "1234",
+        "phn_num":9991999919
+    },
+    {
+        "image":"assets/images/dp.jpg",
+        "name": "sunil",
+        "email": "sunil@gmail.com",
+        "password": "4321",
+        "phn_num":9466054616
+    },
+    {
+        
+        "name": "mandeep",
+        "email": "mandeep@gmail.com",
+        "password": "1111",
+        "phn_num":9991145118
+    }
+]

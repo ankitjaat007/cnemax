@@ -1,0 +1,344 @@
+[
+    {
+        "movie_id":1,
+        "cinema_name":"AMC Empire 25",
+        "movie_img": "assets/images/dead_poll_3.png",
+        "movie_name": "Dead Poll  1",
+        "is_movie_release": true,
+        "duration": {
+            "hours": 3,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ],
+        "actor": [
+
+            {
+                "image": "",
+                "name": "Alisas",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor2.png",
+                "name": "Regina",
+                "work": "Director"
+            },
+            {
+                "image": "assets/images/actor3.png",
+                "name": "Serenity",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor4.png",
+                "name": "Bessie",
+                "work": "Producer"
+            },
+            {
+                "image": "assets/images/actor5.png",
+                "name": "Irma",
+                "work": "Voice Artist"
+            }
+        ]
+    },
+    {
+        "movie_id":2,
+        "cinema_name":"AMC Empire 25",
+        "movie_img": "assets/images/image3.png",
+        "movie_name": "Iron Man 2",
+        "is_movie_release": true,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ],
+        "actor": [
+            {
+                "image": "",
+                "name": "Alisas",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor2.png",
+                "name": "Regina",
+                "work": "Director"
+            },
+            {
+                "image": "assets/images/actor3.png",
+                "name": "Serenity",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor4.png",
+                "name": "Bessie",
+                "work": "Producer"
+            },
+            {
+                "image": "assets/images/actor5.png",
+                "name": "Irma",
+                "work": "Voice Artist"
+            },
+            {
+                "image": "assets/images/actor6.png",
+                "name": "Colleen",
+                "work": "Composer"
+            }
+        ]
+    },
+    {
+        "movie_id":3,
+        "movie_img": "assets/images/image1.png",
+        "movie_name": "Fast and Ferious",
+        "is_movie_release": true,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ],
+        "actor": [
+            {
+                "image": "",
+                "name": "Alisas",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor2.png",
+                "name": "Regina",
+                "work": "Director"
+            },
+            {
+                "image": "assets/images/actor3.png",
+                "name": "Serenity",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor4.png",
+                "name": "Bessie",
+                "work": "Producer"
+            },
+            {
+                "image": "assets/images/actor5.png",
+                "name": "Irma",
+                "work": "Voice Artist"
+            },
+            {
+                "image": "assets/images/actor6.png",
+                "name": "Colleen",
+                "work": "Composer"
+            }
+        ]
+    },
+    {
+        "movie_id":4,
+        "movie_img": "assets/images/image2.png",
+        "movie_name": "Yeh Jawaani ",
+        "is_movie_release": true,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ]
+    },
+    {
+        "movie_id":5,
+        "movie_img": "assets/images/image4.png",
+        "movie_name": "Hollywood",
+        "is_movie_release": true,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ],
+        "actor": [
+            {
+                "image": "",
+                "name": "Alisas",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor2.png",
+                "name": "Regina",
+                "work": "Director"
+            },
+            {
+                "image": "assets/images/actor3.png",
+                "name": "Serenity",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor4.png",
+                "name": "Bessie",
+                "work": "Producer"
+            },
+            {
+                "image": "assets/images/actor5.png",
+                "name": "Irma",
+                "work": "Voice Artist"
+            },
+            {
+                "image": "assets/images/actor6.png",
+                "name": "Colleen",
+                "work": "Composer"
+            }
+        ]
+    },
+    {
+        "movie_id":6,
+        "movie_img": "assets/images/image5.png",
+        "movie_name": "Rine",
+        "is_movie_release": true,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ],
+        "actor": [
+            {
+                "image": "",
+                "name": "Alisas",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor2.png",
+                "name": "Regina",
+                "work": "Director"
+            },
+            {
+                "image": "assets/images/actor3.png",
+                "name": "Serenity",
+                "work": "Actor"
+            },
+            {
+                "image": "assets/images/actor4.png",
+                "name": "Bessie",
+                "work": "Producer"
+            },
+            {
+                "image": "assets/images/actor5.png",
+                "name": "Irma",
+                "work": "Voice Artist"
+            },
+            {
+                "image": "assets/images/actor6.png",
+                "name": "Colleen",
+                "work": "Composer"
+            }
+        ]
+    },
+    {
+        "movie_id":7,
+        "movie_img": "assets/images/notrelz1.png",
+        "movie_name": "Steven 7",
+        "is_movie_release": false,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ]
+    },
+    {
+        "movie_id":8,
+        "movie_img": "assets/images/notrelz2.png",
+        "movie_name": "Van Helsing",
+        "is_movie_release": false,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ]
+    },
+    {
+        "movie_id":9,
+        "movie_img": "assets/images/notrelz3.png",
+        "movie_name": "Dharma & Vetri",
+        "is_movie_release": false,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ]
+        
+        
+    },
+    {
+        "movie_id":9,
+        "movie_img": "assets/images/notrelz4.png",
+        "movie_name": "Venom",
+        "is_movie_release": false,
+        "duration": {
+            "hours": 2,
+            "min": 30
+        },
+        "director": "director",
+        "likes": 8.6,
+        "cenes": [
+            "frection",
+            "Supermessi",
+            "Action",
+            "Advanture"
+        ]
+        
+        
+    }
+]

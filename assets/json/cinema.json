@@ -1,0 +1,85 @@
+[
+    {
+        "cinema_name": "AMC Empire 25",
+        "rating": 5,
+        "address": "Hisar sector 16 near , commuity  center",
+        "phn_number": "+56456426542",
+        "cinema_detlis": [
+            {
+                "movie_id":1,
+                "screen": "Standard",
+                "auditorium": 3,
+                "play_time": [
+                    "10:22",
+                    "11:45",
+                    "10:22",
+                    "10:22",
+                    "10:22"
+                ]
+            },
+            {
+                "movie_id":1,
+                "screen": "IMX",
+                "auditorium": 4,
+                "play_time": [
+                    "02.00",
+                    "05:45",
+                    "00:22",
+                    "01:22",
+                    "11:22"
+                ]
+            }
+        ]
+    },
+    {
+        "cinema_name": "regal E - Walk 4DX & RPX",
+        "rating": 5,
+        "address": "Hisar sector 16 near , commuity  center",
+        "phn_number": "+56456426542",
+        "cinema_detlis": [
+            {
+                "movie_id":5,
+                "screen": "Standard",
+                "auditorium": 3,
+                "play_time": [
+                    "10:22",
+                    "11:45",
+                    "10:22",
+                    "10:22",
+                    "10:22"
+                ]
+            },
+            {
+                "movie_id":1,
+                "screen": "Standard",
+                "auditorium": 4,
+                "play_time": [
+                    "02.00",
+                    "05:45",
+                    "00:22",
+                    "01:22",
+                    "11:22"
+                ]
+            }
+        ]
+    },
+    {
+        "cinema_name": "Angelika Film Center"
+       
+    },
+    {
+        "cinema_name": "Nistehawk Cinema"
+    },
+    {
+        "cinema_name": "IPC Center"
+    },
+    {
+        "cinema_name": "Metrograph"
+    },
+    {
+        "cinema_name": "Landmark of  57 West"
+    },
+    {
+        "cinema_name": "Body Text Regular _16 "
+    }
+]
